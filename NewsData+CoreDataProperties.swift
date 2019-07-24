@@ -23,5 +23,6 @@ extension NewsData {
     @NSManaged public var date: String?
     @NSManaged public var desc: String?
     @NSManaged public var image_url: String?
+    @NSManaged public var url: String?
 
 }
